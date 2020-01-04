@@ -1,3 +1,5 @@
 ﻿Đến cả con khỉ cũng hiểu được lệnh Git.
 -- Commit 1.
 Đăng ký thay đổi trong index
+---Commit Error
+git Thay đổi
