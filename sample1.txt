@@ -1,1 +1,3 @@
 ﻿GitHub2 Đã Commit
+----Commit 2----
+Thử nghiệm Lỗi
