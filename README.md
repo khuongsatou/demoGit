@@ -85,4 +85,5 @@ git reset --hard mãhash</br>
 git commit --amend
 
 #ctrl + c để Hiện chế độ exit </br>
-#tiếp đó là :qa! để thoát
+#tiếp đó là :q! để thoát và save
+# :qa! thoát ko save
