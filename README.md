@@ -60,6 +60,9 @@ git branch -d member2</br>
 git reflog</br>
 git checkout -b mãHash</br>
 </br>
+-- Đổi tên branch --
+git branch -m tenbranchmới
+</br>
 --Mô Hình ---</br>
 Branch chính (Main branch)</br>
 Branch tính năng(feature branch) (branch chủ đề(topic branch))</br>
