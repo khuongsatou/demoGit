@@ -5,3 +5,5 @@
 
 =======Member1
 Đã Thay đổi branch member
+======= Nội dung chỉnh sử bên branch member2
+
