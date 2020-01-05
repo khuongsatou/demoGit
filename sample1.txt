@@ -7,5 +7,5 @@
 Đã Thay đổi branch member
 ======= Nội dung chỉnh sử bên branch member2
 +++++ Đã xóa branch 2
-
+==== Tui muốn undo khi đã commit
 
