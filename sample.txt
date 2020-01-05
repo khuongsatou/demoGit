@@ -1,12 +1,10 @@
 ﻿Đến cả con khỉ cũng hiểu được lệnh Git.
 -- Commit 1.
 Đăng ký thay đổi trong index
-<<<<<<< HEAD
+
 --Commit 2.
 Đã Edit
-=======
----Commit Error
-git Thay đổi
->>>>>>> 53f121fb6731bf08b8f5abd3dd9989c0a1b6a470
+
+
 
 -- Tui muốn sửa tiếp commit
