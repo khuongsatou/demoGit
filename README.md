@@ -18,7 +18,7 @@ git push -u origin master</br>
 </br>
 -----------Clone source về vào 1 thư mục khác -------------</br>
 git clone https://github.com/khuongsatou/demoGit.git</br>
-# Có thể tạo ra thêm 1 file tenfile1.txt và commit xong git push</br>
+#Có thể tạo ra thêm 1 file tenfile1.txt và commit xong git push</br>
 
 ----------Lấy nội dung người khác commit về ---------------</br>
 git pull </br>
@@ -77,3 +77,9 @@ git reset --hard mãhash</br>
 
 
 </br>
+
+--Sử đổi commit ----
+git commit --amend
+
+#ctrl + c để Hiện chế độ exit </br>
+#tiếp đó là :qa! để thoát
