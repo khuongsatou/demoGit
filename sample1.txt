@@ -9,3 +9,5 @@
 +++++ Đã xóa branch 2
 ==== Tui muốn undo khi đã commit
 
+Tiếp tục Edit để commit
+
